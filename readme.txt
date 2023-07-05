@@ -1,4 +1,4 @@
-readme.txt
+﻿readme.txt
 Repositorio de github: hreyes7/deteccionHotspots
 Programas asociados a mi tesis de "IDENTIFICACIÓN DE POTENCIALES HOTSPOTS USANDO MÉTODOS DE CLASIFICACIÓN".
 
@@ -9,5 +9,8 @@ Se utilizaron dos programa para la investigación. Estos están desarrollados en
 Se incluye una carpeta con archivos de ejemplo tanto de entrada como de salida de cada programa.
 1. EjemploArchivosBayesIngenuo
 2. EjemploArchivosExhaustivo
+
+Se incluye un archivo ejemplo de los resultados obtenidos para el experimento con el algorito exhaustivo con datos sin normalizar.
+1. Resultados_Exh_sNorm.xlsx
 
 Pueden contactarme a través del siguiente correo: hreyes7@gmail.com
